@@ -1,0 +1,24 @@
+.test{
+    color: #419;
+    font-size: 100px;
+    text-align: center;
+}
+.testbg{
+background-color: aqua;
+}
+body{
+    /*background-image: url(../_2.jpg);
+    background-repeat: no-repeat;*/
+    background-color: blueviolet;
+}
+.first{
+    float: left;
+}
+.second{
+font-size: medium;
+}
+.third{
+    font-size: small;
+    width: 100px;
+    height: 200px;
+}
